@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaCredito.Testes", "ConsultaCredito.Testes.csproj", "{67E65703-B8FE-47B0-A336-A34193C9BDFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsultaCredito", "..\ConsultaCredito\ConsultaCredito.csproj", "{3CE5BC8E-07F8-468C-B5DD-A8E9D0AAE1A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67E65703-B8FE-47B0-A336-A34193C9BDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E65703-B8FE-47B0-A336-A34193C9BDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E65703-B8FE-47B0-A336-A34193C9BDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E65703-B8FE-47B0-A336-A34193C9BDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE5BC8E-07F8-468C-B5DD-A8E9D0AAE1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE5BC8E-07F8-468C-B5DD-A8E9D0AAE1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE5BC8E-07F8-468C-B5DD-A8E9D0AAE1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE5BC8E-07F8-468C-B5DD-A8E9D0AAE1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F720C59-5D9C-416A-8385-B28E2491F88F}
+	EndGlobalSection
+EndGlobal
